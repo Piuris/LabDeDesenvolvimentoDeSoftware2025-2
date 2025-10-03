@@ -11,7 +11,7 @@
 
 ## 2. Introdução e Visão Geral
 
-Este projeto, desenvolvido como Trabalho de Conclusão de Curso (TCC) para o curso de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS), tem como objetivo criar uma plataforma que facilite a conexão entre alunos que buscam aulas de reforço e professores ou monitores dispostos a ensiná-los. A ideia é centralizar a busca e o agendamento de aulas particulares em um ambiente digital, otimizando o tempo de todos os envolvidos.
+Este projeto tem como objetivo criar uma plataforma que facilite a conexão entre alunos que buscam aulas de reforço e professores ou monitores dispostos a ensiná-los. A ideia é centralizar a busca e o agendamento de aulas particulares em um ambiente digital, otimizando o tempo de todos os envolvidos.
 
 ---
 
