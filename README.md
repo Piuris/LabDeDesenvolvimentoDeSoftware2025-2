@@ -2,7 +2,7 @@
 
 ## 1. Identificação do Projeto
 
-- **Nome do Projeto:** Plataforma de Conexão entre Alunos, Professores e Monitores
+- **Nome do Projeto:** MentorHUB
 - **Autor:** João Vitor Pires
 - **Orientador:** Clarissa Xavier
 - **Data de Aprovação:** (A ser incluído posteriormente)
@@ -11,16 +11,18 @@
 
 ## 2. Introdução e Visão Geral
 
-Este projeto tem como objetivo criar uma plataforma que facilite a conexão entre alunos que buscam aulas de reforço e professores ou monitores dispostos a ensiná-los. A ideia é centralizar a busca e o agendamento de aulas particulares em um ambiente digital, otimizando o tempo de todos os envolvidos.
+O MentorHub é uma plataforma web desenvolvida para facilitar a conexão entre alunos que buscam aulas de reforço e professores ou monitores dispostos a ensiná-los. A ideia é centralizar a busca e o agendamento de aulas particulares em um ambiente digital, otimizando o tempo de todos os envolvidos.
+
+A plataforma oferece uma experiência intuitiva e moderna, permitindo que mentores cadastrem suas mentorias e que alunos encontrem facilmente os tutores ideais para suas necessidades de aprendizado.
 
 ---
 
 ## 3. Objetivos do Projeto
 
-- **Desenvolver uma plataforma web intuitiva** onde professores e monitores possam se cadastrar e oferecer seus serviços.
-- **Implementar um sistema de busca e filtragem eficiente** para que os alunos encontrem tutores com base em matéria, modalidade (presencial ou online) e preço.
-- **Criar uma página de perfil detalhada** para cada tutor, contendo suas qualificações, matérias de domínio, avaliações de outros alunos e agenda de horários.
-- **Oferecer uma experiência de usuário clara e simples**, desde o login até a visualização das informações do tutor.
+- **Desenvolver uma plataforma web intuitiva** onde professores e monitores possam se cadastrar e oferecer seus serviços
+- **Implementar um sistema de busca e filtragem eficiente** para que os alunos encontrem tutores com base em matéria e preço
+- **Criar uma página de perfil detalhada** para cada tutor, contendo suas qualificações, matérias de domínio e avaliações de outros alunos.
+- **Oferecer uma experiência de usuário clara e simples**, desde o login até a visualização das informações do tutor
 
 ---
 
@@ -37,19 +39,15 @@ A plataforma foi projetada com as seguintes funcionalidades em mente:
 ### Tela de Login e Navegação
 - Menu principal de navegação.
 - Barra de pesquisa para encontrar tutores.
-- Tutorial simplificado sobre o funcionamento do site.
 - Opção para novos usuários se inscreverem como tutores.
 
 ### Tela de Pesquisa e Filtragem
 - Filtro de busca por matérias específicas (ex: Matemática, Português, Programação).
-- Filtro por modalidade de aula (presencial ou online).
-- Filtro para ajustar a faixa de preço desejada.
 
 ### Tela do Tutor
 - Exibição das informações do tutor, como nome e preço por aula.
 - Lista de matérias que o tutor domina.
 - Seção de *reviews* com avaliações e comentários de alunos anteriores.
-- Calendário interativo mostrando as datas e horários disponíveis do tutor.
 
 
 PROTÓTIPO
