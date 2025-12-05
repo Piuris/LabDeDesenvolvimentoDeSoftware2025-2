@@ -2,7 +2,7 @@
 
 ## 1. Identificação do Projeto
 
-- **Nome do Projeto:** Desenvolvimento de uma Plataforma de Tutoria Online
+- **Nome do Projeto:** MentorHub
 - **Autor:** João Vitor Pires
 - **Orientador:** Clarissa Xavier
 - **Data de Aprovação:**
@@ -11,15 +11,17 @@
 
 ## 2. Introdução e Visão Geral
 
-Este projeto busca resolver a dificuldade que alunos encontram para localizar professores e monitores particulares, criando uma plataforma centralizada que facilita essa conexão. O sistema visa oferecer um ambiente acessível e eficiente tanto para estudantes em busca de aulas quanto para tutores que desejam oferecer seus serviços.
+O MentorHub é uma plataforma web desenvolvida para facilitar a conexão entre alunos que buscam aulas de reforço e professores ou monitores dispostos a ensiná-los. A ideia é centralizar a busca e o agendamento de aulas particulares em um ambiente digital, otimizando o tempo de todos os envolvidos.
+
+A plataforma oferece uma experiência intuitiva e moderna, permitindo que mentores cadastrem suas mentorias e que alunos encontrem facilmente os tutores ideais para suas necessidades de aprendizado.
 
 ---
 
 ## 3. Objetivos do Projeto
 
 - Desenvolver uma plataforma web intuitiva e acessível para conectar alunos, professores e monitores.
-- Implementar funcionalidades de busca avançada com filtros por matéria, modalidade e preço.
-- Disponibilizar perfis detalhados para os tutores, com informações sobre suas competências, avaliações de outros alunos e calendário de disponibilidade.
+- Implementar funcionalidades de busca avançada com filtros por matéria.
+- Disponibilizar perfis detalhados para os tutores, com informações sobre suas competências e avaliações de outros alunos.
 - Garantir que o sistema seja de fácil utilização, mesmo para usuários com pouca experiência técnica.
 
 ---
@@ -37,7 +39,7 @@ Este projeto busca resolver a dificuldade que alunos encontram para localizar pr
 #### Funcionais
 - Cadastro e login de usuários (tutores e alunos).
 - Busca de tutores com filtros.
-- Visualização de perfil de tutor com calendário e avaliações.
+- Visualização de perfil de tutor com avaliações.
 
 #### Não Funcionais
 - Desempenho eficiente na busca.
